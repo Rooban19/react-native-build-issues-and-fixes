@@ -1,0 +1,3 @@
+Copy all the ttf font files from node_modules/react-native-vector-icons/fonts to the xcode project workspace
+
+Add the fonts in the info.plist and build again
