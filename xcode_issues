@@ -1,3 +1,7 @@
 phasescriptexecution failed with a nonzero exit code xcode 15
   watchman watch-del-all 
   /node_modules/react-native/scripts/react-native-xcode.sh add export PATH=/opt/homebrew/bin:$PATH work for me
+
+
+rm -frd ~/Library/Developer/Xcode/DerivedData/*
+rm -frd ~/Library/Caches/com.apple.dt.Xcode/
