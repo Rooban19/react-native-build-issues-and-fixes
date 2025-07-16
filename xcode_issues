@@ -5,3 +5,11 @@ phasescriptexecution failed with a nonzero exit code xcode 15
 
 rm -frd ~/Library/Developer/Xcode/DerivedData/*
 rm -frd ~/Library/Caches/com.apple.dt.Xcode/
+
+
+-------------------------------------------------
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+
+xcrun simctl list devices
+sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService
+-------------------------------------------------
