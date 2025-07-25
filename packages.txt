@@ -1,0 +1,2 @@
+For dropdowns with select
+https://www.npmjs.com/package/react-native-select-dropdown
